@@ -1,0 +1,5 @@
+{
+    "chat.commandCenter.enabled": false,
+    "chat.detectParticipant.enabled": false,
+    "postman.settings.dotenv-detection-notification-visibility": false
+}
